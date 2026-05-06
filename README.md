@@ -149,12 +149,14 @@ A tutoring marketplace connecting students and tutors with booking workflows and
 <!--         Connect with me     -->
 <!-- ========================================= -->
 
-
-<h2 align="center">🤝 Connect with Me</h2>
+<h2 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" align="center"/>
+  Connect with Me
+</h2>
 
 <p align="center">
-  <a href="mailto:ruhulshanto8082@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://mail.google.com/mail/?view=cm&to=ruhulshanto8082@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Open%20Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/ruhul-amin-shanto" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ruhul%20Amin%20Shanto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -165,10 +167,8 @@ A tutoring marketplace connecting students and tutors with booking workflows and
 </p>
 
 <p align="center">
-  📫 ruhulshanto8082@gmail.com
+  📫 <strong>ruhulshanto8082@gmail.com</strong>
 </p>
-
-
 ---
 
 <p align="center">
