@@ -104,23 +104,19 @@ A full-stack tutoring platform connecting students and tutors with secure bookin
 I'm actively looking for **full-stack opportunities** where I can contribute and grow as a developer.  
 If you're building something interesting or hiring, feel free to reach out.
 
-<div style="display: flex; flex-direction: column; gap: 6px;">
-
-  <div style="display: flex; align-items: center; gap: 8px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18" height="18" style="display: block;" />
-    <span><b>Email:</b> <a href="mailto:ruhulshanto8082@gmail.com">ruhulshanto8082@gmail.com</a></span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="18" height="18" style="display: block;" />
-    <span><b>Portfolio:</b> <a href="https://shanto-portfolio-self.vercel.app">shanto-portfolio-self.vercel.app</a></span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" height="18" style="display: block;" />
-    <span><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/ruhul-amin-shanto">ruhul-amin-shanto</a></span>
-  </div>
-
-</div>
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18"/></td>
+    <td><b>Email:</b> <a href="mailto:ruhulshanto8082@gmail.com">ruhulshanto8082@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="18"/></td>
+    <td><b>Portfolio:</b> <a href="https://shanto-portfolio-self.vercel.app">shanto-portfolio-self.vercel.app</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/></td>
+    <td><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/ruhul-amin-shanto">ruhul-amin-shanto</a></td>
+  </tr>
+</table>
 
 ---
