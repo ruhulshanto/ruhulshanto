@@ -18,27 +18,15 @@
 
 <br/><br/>
 
-<span style="display:inline-block; white-space:nowrap;">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="18" style="vertical-align:middle;" />
-Next.js
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18" style="vertical-align:middle;" />
-React
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="18" style="vertical-align:middle;" />
-Node.js
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="18" style="vertical-align:middle;" />
-PostgreSQL
-
-</span>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="18"/> Next.js
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18"/> React
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="18"/> Node.js
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="18"/> PostgreSQL
+</p>
 
 </div>
 
