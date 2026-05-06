@@ -13,15 +13,14 @@
 
 
 
-
 <p align="center">
-  <!-- Gradient background capsule for name -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:9333EA&height=200&section=header&text=&fontSize=40&animation=fadeIn" />
+  <!-- Gradient waving capsule for decoration (optional) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:9333EA&height=200&section=header&fontSize=40&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <!-- Top typing animation: Your name -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=5000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Ruhul%20Amin%20Shanto" />
+  <!-- Typing animation: Your name -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=3000&color=0EA5E9&center=true&vCenter=true&width=800&lines=Ruhul%20Amin%20Shanto" />
 </p>
 
 <p align="center">
@@ -33,8 +32,6 @@
   💻 <b>Junior Full-Stack Developer</b><br/>
   🚀 Next.js • React • Node.js • PostgreSQL
 </p>
----
-
 
 ## 🧠 About Me
 
