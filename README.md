@@ -14,9 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=ruhulshanto&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
----
-
-## 👨‍💻 About Me
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18"/> 👋 Hi, I'm **Ruhul Amin Shanto**
 
