@@ -62,37 +62,35 @@ I enjoy solving practical problems and continuously improving my development ski
 ---
 
 ## 📌 Featured Projects
-🎬 Cine-Tube — Movie Streaming Platform
 
-Live
- · Client Repo
- · Server Repo
+### 🎬 Cine-Tube — Movie Streaming Platform
+
+**[Live](https://cine-tube-client.vercel.app/login) · [Client Repo](https://github.com/ruhulshanto/cine-tube-client) · [Server Repo](https://github.com/ruhulshanto/cine-tube-server)**
 
 A modern full-stack movie platform for exploring, searching, and viewing movie data with a smooth and responsive user experience.
 
-Dynamic movie browsing with search & filtering
-Real-time data fetching using external APIs
-Clean and responsive UI with optimized performance
-Reusable component-based architecture
+- Dynamic movie browsing with search & filtering  
+- Real-time data fetching using external APIs  
+- Clean and responsive UI with optimized performance  
+- Reusable component-based architecture  
 
-Stack: Next.js · React · TypeScript · Node.js · Express · PostgreSQL · Prisma · Tailwind CSS · Stripe · Better Auth
+**Stack:** Next.js · React · TypeScript · Node.js · Express · PostgreSQL · Prisma · Tailwind CSS · Stripe · Better Auth  
 
-🎓 SkillBridge — Online Tutoring Platform
+---
 
-Live
- · Client Repo
- · Server Repo
+### 🎓 SkillBridge — Online Tutoring Platform
+
+**[Live](https://skill-bridge-client-ruddy.vercel.app/) · [Client Repo](https://github.com/ruhulshanto/skill-bridge-client) · [Server Repo](https://github.com/ruhulshanto/skill-bridge-server)**
 
 A full-stack tutoring platform connecting students and tutors with secure booking, role-based access, and admin management.
 
-Student portal: tutor search, filtering, booking system
-Tutor portal: profile, availability, earnings tracking
-Admin dashboard: user, tutor, and system management
-Secure authentication with role-based access control
-Booking conflict handling & status tracking
+- Student portal: tutor search, filtering, booking system  
+- Tutor portal: profile, availability, earnings tracking  
+- Admin dashboard: user, tutor, and system management  
+- Secure authentication with role-based access control  
+- Booking conflict handling & status tracking  
 
-Stack: Next.js · TypeScript · Node.js · Express · PostgreSQL · Prisma · Tailwind CSS · Better Auth
-
+**Stack:** Next.js · TypeScript · Node.js · Express · PostgreSQL · Prisma · Tailwind CSS · Better Auth  
 
 ## 📈 Goals
 
