@@ -148,23 +148,7 @@ A tutoring marketplace connecting students and tutors with booking workflows and
 <!-- ========================================= -->
 <!--         Connect with me     -->
 <!-- ========================================= -->
-<h2>
-  <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" width="26" align="center"/>
-  Connect with Me
-</h2>
-  
-  <a href="mailto:ruhulshanto8082@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ruhul-amin-shanto">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://shanto-portfolio-self.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
 
---------
 
 <h2 align="center">🤝 Connect with Me</h2>
 
@@ -184,37 +168,6 @@ A tutoring marketplace connecting students and tutors with booking workflows and
   📫 ruhulshanto8082@gmail.com
 </p>
 
-
-
-
-
-
-<h2 align="center">📬 Let's Connect</h2>
-
-<p align="center">
-  I'm always open to discussing new projects, creative ideas, or opportunities.
-</p>
-
-<p align="center">
-  <a href="mailto:ruhulshanto8082@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ruhul-amin-shanto">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://shanto-portfolio-self.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  📧 <strong>ruhulshanto8082@gmail.com</strong>
-</p>
-
-<p align="center">
-  🚀 <i>Available for freelance & full-time opportunities</i>
-</p>
----------
 
 ---
 
