@@ -2,8 +2,9 @@
 
 ### 💻 Full-Stack Developer (MERN)
 
-I build modern, scalable web applications using React, Next.js, Node.js, and MongoDB.  
-Currently focused on improving backend architecture and real-world projects.
+## 🧠 About Me
+
+I am a Full-Stack Developer focused on building real-world scalable applications with clean UI and backend systems.
 
 ---
 
