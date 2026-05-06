@@ -20,9 +20,20 @@
 
 
 
-lines=👋+Hi%2C+I'm+Ruhul+Amin;I+build+real-world+apps;I+love+clean+UI+%26+scalable+backend
-lines=👋+Hi%2C+I'm+Ruhul+Amin;I+build+real-world+apps;I+love+clean+UI+%26+scalable+backend
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:9333EA&height=200&section=header&text=Ruhul%20Amin&fontSize=40&fontAlignY=35" />
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I%27m+Ruhul+Amin;I+build+real-world+apps;I+love+clean+UI+%26+scalable+backend" />
+</p>
+
+<p align="center">
+  💻 <b>Junior Full-Stack Developer</b><br/>
+  🚀 Next.js • React • Node.js • PostgreSQL
+</p>
+
+---
 
 
 --------
