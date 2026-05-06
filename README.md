@@ -38,14 +38,29 @@
 
 --------
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:9333EA&height=260&section=header&text=Ruhul%20Amin&fontSize=50&fontAlignY=38&animation=fadeIn" />
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:9333EA&height=200&section=header&text=Ruhul%20Amin&fontSize=40&fontAlignY=35" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=0EA5E9&center=true&vCenter=true&width=700&lines=%E2%9A%9B%EF%B8%8F+Hi%2C+I%27m+Ruhul+Amin;Full-Stack+Developer;I+build+real-world+apps;Clean+UI+%26+scalable+backend" />
+</p>
+
+<p align="center">
+  💻 <b>Junior Full-Stack Developer</b><br/>
+  🚀 Next.js • React • Node.js • PostgreSQL
 </p>
 
 ---
-lines=👋+Hi%2C+I+am+Ruhul+Amin;I+build+real-world+apps;Clean+UI+%26+scalable+backend
----
+
+<p align="center">
+  <b style="font-size: 28px;">⚛️ Hi, I'm Ruhul Amin</b>
+</p>
+
+<p align="center">
+  Full-Stack Developer • I build real-world apps • Clean UI & scalable backend
+</p>
+
 
 ## 🧠 About Me
 
