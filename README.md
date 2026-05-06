@@ -11,6 +11,31 @@
   🚀 Next.js • React • Node.js • PostgreSQL
 </p>
 
+
+
+
+
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=5000&speed=60&color=FFFFFF&center=true&vCenter=true&width=800&lines=Ruhul+Amin+Shanto" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:9333EA&height=180&section=header&text=%20&fontSize=40" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=3000&speed=50&color=0EA5E9&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;I+build+real-world+applications;Clean+UI+%26+scalable+backend" />
+</p>
+
+<p align="center">
+  💻 <b>Junior Full-Stack Developer</b><br/>
+  🚀 Next.js • React • Node.js • PostgreSQL
+</p>
+
+---
 ---
 
 
