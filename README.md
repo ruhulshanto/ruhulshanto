@@ -100,10 +100,14 @@ A full-stack tutoring platform connecting students and tutors with secure bookin
 
 ---
 
-## 📫 Contact
+## 📫 Let's Connect
 
-📧 Email: [ruhulshanto8082@gmail.com](mailto:ruhulshanto8082@gmail.com)
-🔗 LinkedIn: https://www.linkedin.com/in/ruhul-amin-shanto
-🌐 Portfolio: https://shanto-portfolio-self.vercel.app
+I'm actively looking for **full-stack roles** and open to collaboration.
+If you have an opportunity or project, let's connect.
+
+📧 **[Email](mailto:ruhulshanto8082@gmail.com)**
+🌐 **[Portfolio](https://shanto-portfolio-self.vercel.app)**
+💼 **[LinkedIn](https://www.linkedin.com/in/ruhul-amin-shanto)**
+
 
 ---
