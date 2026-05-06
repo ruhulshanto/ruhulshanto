@@ -1,31 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Ruhul+Amin;Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:9333EA&height=200&section=header&text=Ruhul%20Amin%20Shanto&fontSize=40&fontAlignY=35&animation=fadeIn" />
 </p>
 
 <p align="center">
-  💻 <b>Junior Full-Stack Developer</b><br/>
-  🚀 Next.js • React • Node.js • PostgreSQL
-</p>
-
-<p align="center">
-  <a href="mailto:ruhulshanto8082@gmail.com">📧 Email</a> •
-  <a href="https://shanto-portfolio-self.vercel.app">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/ruhul-amin-shanto">💼 LinkedIn</a>
-</p>
-
-
-
-
-----------
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:9333EA&height=200&section=header&text=Ruhul%20Amin&fontSize=40&fontAlignY=35" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I%27m+Ruhul+Amin;I+build+real-world+apps;I+love+clean+UI+%26+scalable+backend" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;I+build+real-world+applications;Clean+UI+%26+scalable+backend" />
 </p>
 
 <p align="center">
@@ -34,32 +12,6 @@
 </p>
 
 ---
-
-
---------
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:9333EA&height=260&section=header&text=Ruhul%20Amin&fontSize=50&fontAlignY=38&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=0EA5E9&center=true&vCenter=true&width=700&lines=%E2%9A%9B%EF%B8%8F+Hi%2C+I%27m+Ruhul+Amin;Full-Stack+Developer;I+build+real-world+apps;Clean+UI+%26+scalable+backend" />
-</p>
-
-<p align="center">
-  💻 <b>Junior Full-Stack Developer</b><br/>
-  🚀 Next.js • React • Node.js • PostgreSQL
-</p>
-
----
-
-<p align="center">
-  <b style="font-size: 28px;">⚛️ Hi, I'm Ruhul Amin</b>
-</p>
-
-<p align="center">
-  Full-Stack Developer • I build real-world apps • Clean UI & scalable backend
-</p>
 
 
 ## 🧠 About Me
