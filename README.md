@@ -52,51 +52,6 @@
 </p>
 
 
-## 📊 GitHub Stats
-
-<table align="center">
-<tr>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ruhulshanto&show_icons=true&theme=tokyonight&hide_border=true" />
-
-</td>
-
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulshanto&layout=compact&theme=tokyonight&hide_border=true" />
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ruhulshanto&theme=tokyonight&hide_border=true" />
-</p>
-
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruhulshanto&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ruhulshanto&theme=tokyonight&hide_border=true" />
-</p>
-## ⚡ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,nodejs,express,postgresql,mongodb,prisma,tailwind,vercel,git,github&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,stripe&theme=dark" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🎬 Cine-Tube — Movie Streaming Platform
