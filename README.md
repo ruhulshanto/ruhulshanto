@@ -16,24 +16,26 @@
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-### 🚀 Building scalable full-stack apps
-I’m a Junior Full-Stack Developer focused on shipping real-world products with:
-- clean UI
-- scalable backend design
-- reliable authentication & APIs
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18"/> 👋 Hi, I'm **Ruhul Amin Shanto**
 
-### 💡 What I’m into
-- System design & scalable architecture
-- production-level backend development
-- improving performance and developer workflow
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="18"/> I’m currently building modern full-stack applications using **Next.js, React, TypeScript, and Tailwind CSS**.
 
-### 🌱 Currently learning
-- System Design
-- Scalable Architecture
-- Production-Level Backend Development
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="18"/> For backend development, I work with **Node.js, Express.js, PostgreSQL, Prisma, and MongoDB**.
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18"/> I’m currently learning **System Design, Scalable Architecture, and Advanced Backend Development**.
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="18"/> Ask me about **Full-Stack Development (React, Next.js, Node.js, Express, PostgreSQL)**.
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="18"/> Explore my **Portfolio**  
+🌐 https://shanto-portfolio-self.vercel.app
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/> Connect with me on **LinkedIn**  
+💼 https://www.linkedin.com/in/ruhul-amin-shanto
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18"/> Reach me at  
+📫 ruhulshanto8082@gmail.com
 ---
 
 ## 📊 GitHub Stats
