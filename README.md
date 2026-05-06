@@ -11,6 +11,30 @@
   🚀 Next.js • React • Node.js • PostgreSQL
 </p>
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="18" style="vertical-align: middle;" />
+  <b> Junior Full-Stack Developer</b>
+  <br/><br/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="18" style="vertical-align: middle;" />
+  <span> Next.js</span>
+
+  &nbsp;•&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18" style="vertical-align: middle;" />
+  <span> React</span>
+
+  &nbsp;•&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="18" style="vertical-align: middle;" />
+  <span> Node.js</span>
+
+  &nbsp;•&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="18" style="vertical-align: middle;" />
+  <span> PostgreSQL</span>
+</p>
+
 ## 🧠 About Me
 
 I am a passionate Full-Stack Developer focused on building **scalable, real-world web applications** with clean UI and efficient backend systems.
