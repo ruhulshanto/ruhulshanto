@@ -115,6 +115,18 @@ A full-stack tutoring platform connecting students and tutors with secure bookin
 * Learn system design & scalable architecture
 * Contribute to open source projects
 
+
+## 🚀 Featured Projects
+
+### 🎬 Cine-Tube
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-22c55e?style=for-the-badge)](https://cine-tube-client.vercel.app/login)
+[![Client](https://img.shields.io/badge/Client-Repo-0ea5e9?style=for-the-badge)](https://github.com/ruhulshanto/cine-tube-client)
+[![Server](https://img.shields.io/badge/Server-Repo-9333ea?style=for-the-badge)](https://github.com/ruhulshanto/cine-tube-server)
+
+Movie streaming platform with authentication, filtering, payments, and responsive UI.
+
+**Tech:** Next.js • PostgreSQL • Prisma • Stripe • Better Auth
 ---
 ## 📫 Let's Connect
 
