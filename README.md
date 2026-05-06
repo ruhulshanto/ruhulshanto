@@ -16,11 +16,23 @@
 
 ---
 
-## 💼 About Me
+## 🧠 About Me
 
-- Passionate Full-Stack Developer building clean, scalable web apps
-- Strong focus on modern frontend UX and production-ready backend services
-- Always learning system design, architecture, and backend best practices
+### 🚀 Building scalable full-stack apps
+I’m a Junior Full-Stack Developer focused on shipping real-world products with:
+- clean UI
+- scalable backend design
+- reliable authentication & APIs
+
+### 💡 What I’m into
+- System design & scalable architecture
+- production-level backend development
+- improving performance and developer workflow
+
+### 🌱 Currently learning
+- System Design
+- Scalable Architecture
+- Production-Level Backend Development
 
 ---
 
