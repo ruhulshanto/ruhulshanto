@@ -47,5 +47,5 @@ A responsive ticket booking system with modern UI.
 ---
 
 ## 📫 Contact
-- Email: your@email.com  
-- LinkedIn: your link  
+- Email: ruhulshanto8082@gmail.com
+- LinkedIn:www.linkedin.com/in/ruhul-amin-shanto
