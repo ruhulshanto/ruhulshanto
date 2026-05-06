@@ -5,7 +5,9 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1500&color=22C55E&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+Developer;💡+I+build+real-world+applications;⚡+Clean+UI+%26+scalable+backend" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1500&color=22C55E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;I+build+real-world+applications;Clean+UI+and+scalable+backend" 
+  />
 </p>
 
 <br/>
