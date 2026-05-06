@@ -8,19 +8,16 @@ I am a Full-Stack Developer focused on building real-world scalable applications
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-**Frontend:**  
-React, Next.js, Tailwind CSS  
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
-**Backend:**  
-Node.js, Express  
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
-**Database:**  
-MongoDB  
-
-**Tools:**  
-Git, GitHub, Firebase, Vercel  
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ---
 
