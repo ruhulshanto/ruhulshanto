@@ -57,10 +57,18 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruhulshanto&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
+<!-- ========================================= -->
+<!--            Featured Projects        -->
+<!-- ========================================= -->
+<h2>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28" align="center"/>
+  Featured Projects
+</h2>
 
-## 🚀 Featured Projects
-
-### 🎬 Cine-Tube — Movie Streaming Platform
+<h3>
+  <img src="https://cdn-icons-png.flaticon.com/512/1179/1179120.png" width="24" align="center"/>
+  Cine-Tube — Movie Streaming Platform
+</h3>
 
 <p>
   <a href="https://cine-tube-client.vercel.app/login">
@@ -86,7 +94,10 @@ A modern movie streaming platform with user authentication, advanced search, fil
 
 ---
 
-### 🎓 SkillBridge — Online Tutoring Platform
+<h3>
+  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png" width="24" align="center"/>
+  SkillBridge — Online Tutoring Platform
+</h3>
 
 <p>
   <a href="https://skill-bridge-client-ruddy.vercel.app/">
@@ -120,7 +131,13 @@ A tutoring marketplace connecting students and tutors with booking workflows and
 
 ---
 
-## 🎯 Current Goals
+<!-- ========================================= -->
+<!--            Current goals        -->
+<!-- ========================================= -->
+<h2>
+  <img src="https://cdn-icons-png.flaticon.com/512/1534/1534938.png" width="26" align="center"/>
+  Current Goals
+</h2>
 
 - Build production-ready full-stack applications
 - Learn scalable architecture and system design
@@ -129,7 +146,13 @@ A tutoring marketplace connecting students and tutors with booking workflows and
 
 ---
 
-## 📫 Connect with Me
+<!-- ========================================= -->
+<!--         Connect with me     -->
+<!-- ========================================= -->
+<h2>
+  <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" width="26" align="center"/>
+  Connect with Me
+</h2>
 
 <p align="center">
   <a href="mailto:ruhulshanto8082@gmail.com">
