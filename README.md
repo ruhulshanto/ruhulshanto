@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;I+build+real-world+applications;Clean+UI+%26+scalable+backend" />
 </p>
 
-<p align="center">
-  💻 <b>Junior Full-Stack Developer</b><br/>
-  🚀 Next.js • React • Node.js • PostgreSQL
-</p>
-
 
 <div align="center">
 
