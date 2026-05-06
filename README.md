@@ -106,8 +106,8 @@ I'm actively looking for **full-stack opportunities** where I can contribute and
 If you're building something interesting or hiring, feel free to reach out.
 
 <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 6px;">
-  <img style="margin-top: -2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18"/>
-  <b>Email:</b>
+  <img style="margin-top: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18"/>
+  <b margin-top: 14px>Email:</b>
   <a href="mailto:ruhulshanto8082@gmail.com">ruhulshanto8082@gmail.com</a>
 </div>
 
