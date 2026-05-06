@@ -23,7 +23,7 @@
   👋 Hi, I'm <b>Ruhul Amin Shanto</b>
 </p>
 
-<p>
+<p style="top: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
        width="18"
        style="position: relative; top: 3px;" />
