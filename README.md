@@ -15,40 +15,24 @@
 </p>
 
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-       width="18"
-       align="absmiddle" />
-  👋 Hi, I'm <b>Ruhul Amin Shanto</b>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18" align="absmiddle"/> 👋 Hi, I'm **Ruhul Amin Shanto**
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-       width="18"
-       align="absmiddle" />
-  I’m currently building modern full-stack applications using <b>Next.js, React, TypeScript, and Tailwind CSS</b>.
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="18" align="absmiddle"/> I’m currently building modern full-stack applications using **Next.js, React, TypeScript, and Tailwind CSS**.
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-       width="18"
-       align="absmiddle" />
-  For backend development, I work with <b>Node.js, Express.js, PostgreSQL, Prisma, and MongoDB</b>.
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="18" align="absmiddle"/> For backend development, I work with **Node.js, Express.js, PostgreSQL, Prisma, and MongoDB**.
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-       width="18"
-       align="absmiddle" />
-  I’m currently learning <b>System Design, Scalable Architecture, and Advanced Backend Development</b>.
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" align="absmiddle"/> I’m currently learning **System Design, Scalable Architecture, and Advanced Backend Development**.
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-       width="18"
-       align="absmiddle" />
-  Ask me about <b>Full-Stack Development (React, Next.js, Node.js, Express, PostgreSQL)</b>.
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="18" align="absmiddle"/> Ask me about **Full-Stack Development (React, Next.js, Node.js, Express, PostgreSQL)**.
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="18" align="absmiddle"/> Explore my **Portfolio**  
+🌐 https://shanto-portfolio-self.vercel.app
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" align="absmiddle"/> Connect with me on **LinkedIn**  
+💼 https://www.linkedin.com/in/ruhul-amin-shanto
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18" align="absmiddle"/> Reach me at  
+📫 ruhulshanto8082@gmail.com
 
 
 ---
