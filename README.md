@@ -158,6 +158,9 @@ A tutoring marketplace connecting students and tutors with booking workflows and
   <a href="https://mail.google.com/mail/?view=cm&to=ruhulshanto8082@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Open%20Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <p align="center">
+  <img src="https://img.shields.io/badge/Hover%20Not%20Supported-Use%20Email%20Below-yellow?style=for-the-badge"/>
+</p>
   <a href="https://www.linkedin.com/in/ruhul-amin-shanto" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ruhul%20Amin%20Shanto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
