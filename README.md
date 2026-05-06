@@ -2,27 +2,19 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:9333EA&height=220&section=header&text=Ruhul%20Amin%20Shanto&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </p>
-
-<!-- TYPING ANIMATION -->
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1500&color=22C55E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;I+build+real-world+applications;Clean+UI+and+scalable+backend" 
   />
 </p>
 
-<br/>
-
 <!-- ROLE -->
 <h3 align="center">💻 Junior Full-Stack Developer</h3>
-
-<br/>
 
 <!-- TECH STACK BADGES -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,postgresql&theme=dark" />
 </p>
-
-<br/>
 
 <!-- OPTIONAL GLOW LINE -->
 <p align="center">
