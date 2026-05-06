@@ -11,28 +11,6 @@
   🚀 Next.js • React • Node.js • PostgreSQL
 </p>
 
-
-
-<p align="center">
-  <!-- Gradient waving capsule for decoration (optional) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:9333EA&height=200&section=header&fontSize=40&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <!-- Typing animation: Your name -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=3000&color=0EA5E9&center=true&vCenter=true&width=800&lines=Ruhul%20Amin%20Shanto" />
-</p>
-
-<p align="center">
-  <!-- Bottom typing animation: other info -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;I+build+real-world+applications;Clean+UI+%26+scalable+backend" />
-</p>
-
-<p align="center">
-  💻 <b>Junior Full-Stack Developer</b><br/>
-  🚀 Next.js • React • Node.js • PostgreSQL
-</p>
-
 ## 🧠 About Me
 
 I am a passionate Full-Stack Developer focused on building **scalable, real-world web applications** with clean UI and efficient backend systems.
