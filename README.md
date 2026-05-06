@@ -1,42 +1,4 @@
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:9333EA&height=240&section=header&text=Ruhul%20Amin%20Shanto&fontSize=45&fontAlignY=38&animation=twinkling&fontColor=ffffff" />
-</p>
-
-<p align="center">
-  <img src="[YOUR_IMAGE_LINK](https://avatars.githubusercontent.com/u/132550281?v=4)" width="200" style="border-radius:50%" />
-</p>
-
-
-----------
-<p align="center">
-  <img src="[https://raw.githubusercontent.com/ruhulshanto/ruhulshanto/main/profile.png](https://avatars.githubusercontent.com/u/132550281?v=4)" width="180" style="border-radius:50%" />
-</p>
-------------
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:9333EA&height=220&section=header&text=Ruhul%20Amin%20Shanto&fontSize=42&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ruhulshanto/ruhulshanto/main/profile.png" width="160" style="border-radius:50%; border: 3px solid #22c55e;" />
-</p>
-
---------
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:9333EA&height=220&section=header&text=Ruhul%20Amin%20Shanto&fontSize=42&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
-</p>
-
-<p align="center">
-  <img src="[https://raw.githubusercontent.com/ruhulshanto/ruhulshanto/main/profile.png](https://avatars.githubusercontent.com/u/132550281?v=4)" width="160" style="border-radius:50%; border: 3px solid #22c55e;" />
-</p>
-
-
-
-
-
 <!-- ========================================= -->
 <!--               HEADER SECTION             -->
 <!-- ========================================= -->
