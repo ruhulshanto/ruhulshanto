@@ -44,7 +44,7 @@
 </p>
 
 ---
-
+lines=👋+Hi%2C+I+am+Ruhul+Amin;I+build+real-world+apps;Clean+UI+%26+scalable+backend
 ---
 
 ## 🧠 About Me
