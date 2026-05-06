@@ -1,29 +1,31 @@
+<!-- HEADER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:9333EA&height=200&section=header&text=Ruhul%20Amin%20Shanto&fontSize=40&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:9333EA&height=220&section=header&text=Ruhul%20Amin%20Shanto&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </p>
 
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;I+build+real-world+applications;Clean+UI+%26+scalable+backend" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1500&color=22C55E&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+Developer;💡+I+build+real-world+applications;⚡+Clean+UI+%26+scalable+backend" />
 </p>
 
+<br/>
 
-<div align="center">
+<!-- ROLE -->
+<h3 align="center">💻 Junior Full-Stack Developer</h3>
 
-<b>💻 Junior Full-Stack Developer</b>
+<br/>
 
-<br/><br/>
-
+<!-- TECH STACK BADGES -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="18"/> Next.js
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18"/> React
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="18"/> Node.js
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="18"/> PostgreSQL
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,postgresql&theme=dark" />
 </p>
 
-</div>
+<br/>
+
+<!-- OPTIONAL GLOW LINE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333EA,100:0EA5E9&height=2&section=header"/>
+</p>
 
 
 ## 🧠 About Me
