@@ -1,7 +1,37 @@
-# 👋 Hi, I'm Ruhul Amin
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Ruhul+Amin;Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js" />
+</p>
 
-💻 **Junior Full-Stack Developer**
-🚀 Next.js • React • Node.js • PostgreSQL
+<p align="center">
+  💻 <b>Junior Full-Stack Developer</b><br/>
+  🚀 Next.js • React • Node.js • PostgreSQL
+</p>
+
+<p align="center">
+  <a href="mailto:ruhulshanto8082@gmail.com">📧 Email</a> •
+  <a href="https://shanto-portfolio-self.vercel.app">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/ruhul-amin-shanto">💼 LinkedIn</a>
+</p>
+
+
+
+
+----------
+
+
+
+lines=👋+Hi%2C+I'm+Ruhul+Amin;I+build+real-world+apps;I+love+clean+UI+%26+scalable+backend
+
+
+
+--------
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:9333EA&height=200&section=header&text=Ruhul%20Amin&fontSize=40&fontAlignY=35" />
+</p>
+
+---
 
 ---
 
