@@ -1,151 +1,201 @@
-<!-- HEADER WAVE -->
+<!-- ========================================= -->
+<!--               HEADER SECTION             -->
+<!-- ========================================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:9333EA&height=220&section=header&text=Ruhul%20Amin%20Shanto&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
-</p>
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1500&color=22C55E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;I+build+real-world+applications;Clean+UI+and+scalable+backend" 
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:9333EA&height=240&section=header&text=Ruhul%20Amin%20Shanto&fontSize=45&fontAlignY=38&animation=twinkling&fontColor=ffffff" />
 </p>
 
-<!-- ROLE -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1500&color=22C55E&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+real-world+applications;Clean+UI+and+scalable+backend" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ruhulshanto&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
 <h3 align="center">💻 Junior Full-Stack Developer</h3>
 
-<!-- TECH STACK BADGES -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,postgresql&theme=dark" />
+  Passionate about building scalable full-stack applications with modern technologies and clean user experiences.
 </p>
 
-<!-- OPTIONAL GLOW LINE -->
+<br/>
+
+<!-- ========================================= -->
+<!--               GITHUB STATS               -->
+<!-- ========================================= -->
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333EA,100:0EA5E9&height=2&section=header"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ruhulshanto&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulshanto&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ruhulshanto&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<!-- ========================================= -->
+<!--                ABOUT ME                  -->
+<!-- ========================================= -->
 
 ## 🧠 About Me
 
-I am a passionate Full-Stack Developer focused on building **scalable, real-world web applications** with clean UI and efficient backend systems.
-I enjoy solving practical problems and continuously improving my development skills.
+🚀 Passionate Full-Stack Developer focused on building scalable web applications with clean UI and efficient backend systems.
+
+💡 I enjoy solving real-world problems, learning modern technologies, and improving my development workflow every day.
+
+🌱 Currently learning:
+- System Design
+- Scalable Architecture
+- Production-Level Backend Development
 
 ---
 
-## 🚀 Tech Stack
+<!-- ========================================= -->
+<!--               TECH STACK                 -->
+<!-- ========================================= -->
 
-### 🎨 Frontend
+## ⚡ Tech Stack
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,nodejs,express,postgresql,mongodb,prisma,tailwind,firebase,git,github,vercel&theme=dark" />
 </p>
 
-### ⚙️ Backend
+<br/>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-</p>
-
-### 🗄️ Database
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-</p>
-
-### 🔐 Auth & ORM
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40"/>
-</p>
-
-`JWT` • `Better Auth`
-
-### 💳 Payments
-
-`Stripe API`
-
-### 🛠️ Tools & Platforms
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,figma,stripe&theme=dark" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+<!-- ========================================= -->
+<!--            FEATURED PROJECTS             -->
+<!-- ========================================= -->
 
-### 🎬 Cine-Tube — Movie Streaming Platform
+# 🚀 Featured Projects
 
-**[Live](https://cine-tube-client.vercel.app/login) · [Client Repo](https://github.com/ruhulshanto/cine-tube-client) · [Server Repo](https://github.com/ruhulshanto/cine-tube-server)**
+## 🎬 Cine-Tube — Movie Streaming Platform
 
-A modern full-stack movie platform for exploring, searching, and viewing movie data with a smooth and responsive user experience.
+<p>
+  <a href="https://cine-tube-client.vercel.app/login">
+    <img src="https://img.shields.io/badge/Live-Demo-22c55e?style=for-the-badge" />
+  </a>
 
-- Dynamic movie browsing with search & filtering  
-- Real-time data fetching using external APIs  
-- Clean and responsive UI with optimized performance  
-- Reusable component-based architecture  
+  <a href="https://github.com/ruhulshanto/cine-tube-client">
+    <img src="https://img.shields.io/badge/Client-Repo-0ea5e9?style=for-the-badge" />
+  </a>
 
-**Stack:** Next.js · React · TypeScript · Node.js · Express · PostgreSQL · Prisma · Tailwind CSS · Stripe · Better Auth  
+  <a href="https://github.com/ruhulshanto/cine-tube-server">
+    <img src="https://img.shields.io/badge/Server-Repo-9333ea?style=for-the-badge" />
+  </a>
+</p>
+
+A modern full-stack movie streaming platform with authentication, search, filtering, and responsive UI.
+
+### ✨ Features
+
+- Dynamic movie browsing
+- Advanced filtering & search
+- Authentication system
+- Responsive modern UI
+- Optimized performance
+
+### 🛠️ Stack
+
+`Next.js` `React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma` `Tailwind CSS` `Stripe`
 
 ---
 
-### 🎓 SkillBridge — Online Tutoring Platform
+## 🎓 SkillBridge — Online Tutoring Platform
 
-**[Live](https://skill-bridge-client-ruddy.vercel.app/) · [Client Repo](https://github.com/ruhulshanto/skill-bridge-client) · [Server Repo](https://github.com/ruhulshanto/skill-bridge-server)**
+<p>
+  <a href="https://skill-bridge-client-ruddy.vercel.app/">
+    <img src="https://img.shields.io/badge/Live-Demo-22c55e?style=for-the-badge" />
+  </a>
 
-A full-stack tutoring platform connecting students and tutors with secure booking, role-based access, and admin management.
+  <a href="https://github.com/ruhulshanto/skill-bridge-client">
+    <img src="https://img.shields.io/badge/Client-Repo-0ea5e9?style=for-the-badge" />
+  </a>
 
-- Student portal: tutor search, filtering, booking system  
-- Tutor portal: profile, availability, earnings tracking  
-- Admin dashboard: user, tutor, and system management  
-- Secure authentication with role-based access control  
-- Booking conflict handling & status tracking  
+  <a href="https://github.com/ruhulshanto/skill-bridge-server">
+    <img src="https://img.shields.io/badge/Server-Repo-9333ea?style=for-the-badge" />
+  </a>
+</p>
 
-**Stack:** Next.js · TypeScript · Node.js · Express · PostgreSQL · Prisma · Tailwind CSS · Better Auth  
+A full-stack tutoring platform connecting students and tutors with booking and role-based management.
 
-## 📈 Goals
+### ✨ Features
 
-* Build production-level full-stack applications
-* Learn system design & scalable architecture
-* Contribute to open source projects
+- Tutor search & booking
+- Student & tutor dashboards
+- Role-based authentication
+- Admin management system
+- Booking conflict handling
 
+### 🛠️ Stack
 
-## 🚀 Featured Projects
+`Next.js` `TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma` `Tailwind CSS`
 
-### 🎬 Cine-Tube
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-22c55e?style=for-the-badge)](https://cine-tube-client.vercel.app/login)
-[![Client](https://img.shields.io/badge/Client-Repo-0ea5e9?style=for-the-badge)](https://github.com/ruhulshanto/cine-tube-client)
-[![Server](https://img.shields.io/badge/Server-Repo-9333ea?style=for-the-badge)](https://github.com/ruhulshanto/cine-tube-server)
-
-Movie streaming platform with authentication, filtering, payments, and responsive UI.
-
-**Tech:** Next.js • PostgreSQL • Prisma • Stripe • Better Auth
 ---
+
+<!-- ========================================= -->
+<!--           CONTRIBUTION SNAKE             -->
+<!-- ========================================= -->
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<!-- ========================================= -->
+<!--                 GOALS                    -->
+<!-- ========================================= -->
+
+## 📈 Current Goals
+
+- 🚀 Build production-level full-stack applications
+- 🧠 Learn scalable architecture & system design
+- 🌍 Contribute to open-source projects
+- 💼 Grow as a professional software developer
+
+---
+
+<!-- ========================================= -->
+<!--               CONNECT                    -->
+<!-- ========================================= -->
+
 ## 📫 Let's Connect
 
-I'm actively looking for **full-stack opportunities** where I can contribute and grow as a developer.  
-If you're building something interesting or hiring, feel free to reach out.
+<p align="center">
 
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18"/></td>
-    <td><b>Email:</b> <a href="mailto:ruhulshanto8082@gmail.com">ruhulshanto8082@gmail.com</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="18"/></td>
-    <td><b>Portfolio:</b> <a href="https://shanto-portfolio-self.vercel.app">shanto-portfolio-self.vercel.app</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/></td>
-    <td><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/ruhul-amin-shanto">ruhul-amin-shanto</a></td>
-  </tr>
-</table>
+<a href="mailto:ruhulshanto8082@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ruhul-amin-shanto">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://shanto-portfolio-self.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:0EA5E9&height=120&section=footer"/>
+</p>
