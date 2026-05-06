@@ -15,28 +15,40 @@
 </p>
 
 
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
        width="18"
-       style="position: relative; top: 3px;" />
+       align="absmiddle" />
   👋 Hi, I'm <b>Ruhul Amin Shanto</b>
 </p>
 
-<p style="top: 12px;">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
        width="18"
-       style="position: relative; top: 3px;" />
+       align="absmiddle" />
   I’m currently building modern full-stack applications using <b>Next.js, React, TypeScript, and Tailwind CSS</b>.
 </p>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
        width="18"
-       style="position: relative; top: 3px;" />
+       align="absmiddle" />
   For backend development, I work with <b>Node.js, Express.js, PostgreSQL, Prisma, and MongoDB</b>.
 </p>
 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+       width="18"
+       align="absmiddle" />
+  I’m currently learning <b>System Design, Scalable Architecture, and Advanced Backend Development</b>.
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+       width="18"
+       align="absmiddle" />
+  Ask me about <b>Full-Stack Development (React, Next.js, Node.js, Express, PostgreSQL)</b>.
+</p>
 
 
 ---
