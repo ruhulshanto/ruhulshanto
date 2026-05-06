@@ -44,10 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" align="center"/>
   Git Status
 </h2>
-<h2 align="left">
-  <img src="ICON_URL" width="26" align="center"/>
-   Git Status
-</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhulshanto&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
