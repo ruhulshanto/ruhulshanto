@@ -4,7 +4,7 @@
 <!-- ========================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:9333EA&height=240&section=header&text=Ruhul%20Amin%20Shanto&fontSize=45&fontAlignY=38&animation=twinkling&fontColor=ffffff" />
+  <img src="https://raw.githubusercontent.com/ruhulshanto/ruhulshanto/refs/heads/main/linkedin_Cover_page.png" width="100%" />
 </p>
 
 <p align="center">
