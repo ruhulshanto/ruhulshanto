@@ -167,31 +167,11 @@ A tutoring marketplace connecting students and tutors with booking workflows and
   </a>
 </p>
 
-<p align="center">
-  📫 <strong>ruhulshanto8082@gmail.com</strong>
-</p>
----------------
-<p align="center">
-  <a href="mailto:ruhulshanto8082@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ruhulshanto8082%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="mailto:ruhulshanto8082@gmail.com">
-    <img src="https://img.shields.io/badge/Contact%20Me-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="22" align="center"/>
   <strong> ruhulshanto8082@gmail.com</strong>
 </p>
-
-
-
 
 
 <p align="center">
